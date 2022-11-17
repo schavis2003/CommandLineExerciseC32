@@ -1,0 +1,15 @@
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\bin\Debug\net7.0\HelloWorldC32.exe
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\bin\Debug\net7.0\HelloWorldC32.deps.json
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\bin\Debug\net7.0\HelloWorldC32.runtimeconfig.json
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\bin\Debug\net7.0\HelloWorldC32.dll
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\bin\Debug\net7.0\HelloWorldC32.pdb
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.csproj.AssemblyReference.cache
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.AssemblyInfoInputs.cache
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.AssemblyInfo.cs
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.csproj.CoreCompileInputs.cache
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.dll
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\refint\HelloWorldC32.dll
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.pdb
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\HelloWorldC32.genruntimeconfig.cache
+C:\Users\19102\source\repos\HelloWorldC32\HelloWorldC32\obj\Debug\net7.0\ref\HelloWorldC32.dll
