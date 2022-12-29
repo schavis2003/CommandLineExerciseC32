@@ -1,2 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Software Developers!");
+﻿// Write a public method that accepts a number
+// 1. access modifier
+// 2. return type
+// 3. method name
+// 4. Parameters
+// 5. Scope
+
+// when the number is divisible by 3 return the word fizz
+
+// when the number is divisible by 5 return the word buzz
+
+// when the number is divisible by both, return the word fizzbuzz
+
+
+public string FizzBuzz(int num)
+{
+    var answer = "";
+
+    if(num % 3 == 0)
+    
+    {
+        answer = "fizz";
+    }
+
+    if(num % 5 == 0)
+    {
+        answer += "buzz"; // answer = answer + "buzz"
+    }
+
+    return answer;
+}
